@@ -5,7 +5,7 @@
 ---
 
 #### Personal Github Organizations
-[<img src="https://avatars.githubusercontent.com/u/95472145?s=200&v=4" width="32" />  Github - Education](https://github.com/jack-sparrow)
+[<img src="https://avatars.githubusercontent.com/u/95472145?s=200&v=4" width="32" />  Github - Education](https://github.com/jack-education)
 *Projects created for educucational purposes. It contains exams, courses, workshops*
 
 ---
