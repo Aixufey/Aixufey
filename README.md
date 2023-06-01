@@ -25,7 +25,7 @@ Frontend & App development<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 #### [<img src="https://avatars.githubusercontent.com/u/95472145?s=200&v=4" width="32" /> ](https://github.com/sparrow-education) Personal Github Organizations :
-- *Projects created for educucational purposes. It contains exams, courses, workshops*
+- *Projects created for educational purposes. It contains exams, courses, workshops*
 
 
 ---
