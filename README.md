@@ -16,24 +16,27 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" />
 </div>
 
-#### :man_technologist: About Me : 
+### :man_technologist: About Me : 
 Frontend & App development<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- Currently working on Agile Methodology
-- Likes tech and gadgets
+- Working on cross-platform, iOS development and research methods.
 
 ---
 
 
-#### [<img src="https://avatars.githubusercontent.com/u/95472145?s=200&v=4" width="32" /> ](https://github.com/sparrow-education) Personal Github Organizations :
-- *Projects created for educational purposes. It contains exams, courses, workshops*
+### Personal Github Organizations :
+[<img src="https://avatars.githubusercontent.com/u/95472145?s=200&v=4" width="32" /> Github - Education](https://github.com/sparrow-education)
+*Projects created for educational purposes. It contains exams, courses, workshops*
 
+[<img src="https://avatars.githubusercontent.com/u/95485869?s=200&v=4" width="32"/>  Github - Personal Projects](https://github.com/sparrow-personal)
+*Personal projects that is not currently under development, to maintain a cleaner main profile*
 
 ---
 
 
 ### :hammer_and_wrench: Language and Tools :
-<div>
+<div> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/spring/spring-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>
@@ -52,6 +55,9 @@ Frontend & App development<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/nodejs/nodejs-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/linux/linux-original.svg" width="32"/>
 </div>
+  
+
+
 <!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Git" width="40" height="40"/>
