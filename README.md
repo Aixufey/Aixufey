@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" />
 </div>
 
-### :man_technologist: About Me : 
+### 🧑‍💻 About Me : 
 Frontend & App development<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Working on cross-platform, iOS development and research methods.
 
@@ -33,7 +33,7 @@ Frontend & App development<img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 
-### :hammer_and_wrench: Language and Tools :
+### 🛠️ Language and Tools :
 <div> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/spring/spring-original.svg" width="32"/>
