@@ -18,7 +18,7 @@
 
 ### 🧑‍💻 About Me : 
 Frontend & App development<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- Working on cross-platform, iOS development and research methods.
+- Working on my Bachelor's thesis and on a journey to become a proficient full-stack developer.
 
 ---
 
