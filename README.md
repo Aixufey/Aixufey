@@ -17,8 +17,7 @@
 </div>
 
 ### 🧑‍💻 About Me : 
-Frontend & App development<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- Working on my Bachelor's thesis and on a journey to become a proficient full-stack developer.
+Software Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ---
 
