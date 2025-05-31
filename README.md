@@ -39,6 +39,7 @@ Software Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/php/php-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/typescript/typescript-plain.svg" width="32"/>
